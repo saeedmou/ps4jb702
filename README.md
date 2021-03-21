@@ -1,5 +1,8 @@
 # Ps4jb702
 
+This is a PS4JB for firmware version 7.02 written in Angular 11.
+
+## Development environment
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
 
 ## Development server
