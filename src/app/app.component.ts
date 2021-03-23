@@ -8,3 +8,9 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'ps4jb702';
 }
+
+
+// ,
+//   "include": [
+//     "./src/app/external/**/*"
+//   ]
